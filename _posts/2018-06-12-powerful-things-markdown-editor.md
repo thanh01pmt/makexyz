@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Những thứ hay ho mà Markdown có thể làm"
 author: tony
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
